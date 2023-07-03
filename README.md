@@ -1,5 +1,5 @@
 # BookTickets-Ui-Ux-Flutter-
-Book Ticket is a sleek mobile travel app designed in Flutter. Discover, plan, and book your dream trips with ease. Get personalized recommendations, compare prices for flights, hotels, and car rentals, and access essential travel information. Your ultimate companion for seamless and convenient travel.
+Book Ticket is a sleek mobile travel app designed in Flutter. Discover, plan, and book your dream trips with ease. Get personalized recommendations, compare prices for flights, hotels and access essential travel information. Your ultimate companion for seamless and convenient travel.
 <h1>Front Page:</h1>
 ![Screenshot_1688396930](https://github.com/AyanKantiDas/BookTickets-Ui-Ux-Flutter-/assets/103057066/d6eb6980-3e8e-458e-b0b5-50a33794f217)
 
