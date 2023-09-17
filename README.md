@@ -15,7 +15,7 @@ Book Ticket's first page is not just visually appealing, but also functional and
 
 
 <h4>See the First page Images : </h4>
-![Screenshot_1688396934](https://github.com/AyanKantiDas/BookTickets-Ui-Ux-Flutter-/assets/103057066/c31f4996-84ae-4519-be1f-8b90c26cbf47)
+
 
 ![Screenshot_1688396939](https://github.com/AyanKantiDas/BookTickets-Ui-Ux-Flutter-/assets/103057066/da44b4d8-2b73-4b17-8469-55eb09f40143)
 
